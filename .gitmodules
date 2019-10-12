@@ -1,0 +1,6 @@
+[submodule "node_course_one"]
+	path = node_course_one
+	url = git@github.com:tranvantai0011/node_course_one.git
+[submodule "Course"]
+	path = Course
+	url = git@github.com:tranvantai0011/Course.git
