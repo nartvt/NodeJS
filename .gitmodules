@@ -4,3 +4,6 @@
 [submodule "Course"]
 	path = Course
 	url = git@github.com:tranvantai0011/Course.git
+[submodule "social-network"]
+	path = social-network
+	url = git@github.com:tranvantai0011/social-network.git
