@@ -1,9 +1,9 @@
-[submodule "node_course_one"]
-	path = node_course_one
-	url = git@github.com:tranvantai0011/node_course_one.git
-[submodule "Course"]
-	path = Course
-	url = git@github.com:tranvantai0011/Course.git
-[submodule "social-network"]
-	path = social-network
-	url = git@github.com:tranvantai0011/social-network.git
+[submodule "course-one-node-practice"]
+	path = course-one-node-practice
+	url = git@github.com:tranvantai0011/course-one-node-practice.git
+[submodule "course-mongoose-practice"]
+	path = course-mongoose-practice
+	url = git@github.com:tranvantai0011/course-mongoose-practice.git
+[submodule "social-network-mongoose"]
+	path = social-network-mongoose
+	url = git@github.com:tranvantai0011/social-network-mongoose.git
