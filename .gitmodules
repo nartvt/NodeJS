@@ -13,3 +13,6 @@
 [submodule "chat-message-app"]
 	path = chat-message-app
 	url = git@github.com:tranvantai0011/chat-message-app.git
+[submodule "shoping-api"]
+	path = shoping-api
+	url = git@github.com:tranvantai0011/shoping-api.git
