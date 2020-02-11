@@ -7,3 +7,9 @@
 [submodule "social-network-mongoose"]
 	path = social-network-mongoose
 	url = git@github.com:tranvantai0011/social-network-mongoose.git
+[submodule "xe-di-ke-final"]
+	path = xe-di-ke-final
+	url = git@github.com:tranvantai0011/xe-di-ke-final.git
+[submodule "chat-message-app"]
+	path = chat-message-app
+	url = git@github.com:tranvantai0011/chat-message-app.git
